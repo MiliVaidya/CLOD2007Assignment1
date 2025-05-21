@@ -32,6 +32,8 @@ This project demonstrates the process of hosting a static website using Google C
     * The `gsutil acl ch -u AllUsers:R gs://your-bucket-name/style.css` command was used to grant read permission to all users for the `style.css` file. (Note: This command would need to be applied to all necessary public assets, including `index.html` for full website access.)
     * After running the `gsutil` command, the website became accessible.
 
+    Website Link: https://genuine-haupia-0c260b.netlify.app/
+
 ## Author
 
 Mili Vaidya
