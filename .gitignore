@@ -1,0 +1,8 @@
+# Terraform generated files
+.terraform/
+*.tfplan
+*.tfstate
+*.tfstate.backup
+crash.log
+.terraform.lock.hcl
+.vscode/
